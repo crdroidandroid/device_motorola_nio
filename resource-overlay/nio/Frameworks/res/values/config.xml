@@ -228,4 +228,11 @@
 
     <!-- Default component for QR code scanner -->
     <string name="config_defaultQrCodeComponent" translatable="false">com.motorola.camera3/com.motorola.camera.Camera</string>
+
+    <!-- Refresh rate configs -->
+    <integer name="config_defaultFixedOnPeakRefreshRate">0</integer>
+    <integer name="config_defaultMinRefreshRate">60</integer>
+    <integer name="config_defaultPeakRefreshRate">90</integer>
+    <integer name="config_defaultRefreshRate">0</integer>
+    <integer name="config_defaultRefreshRateInZone">90</integer>
 </resources>
