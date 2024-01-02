@@ -15,7 +15,7 @@ TARGET_BOOTLOADER_BOARD_NAME := nio
 TARGET_SCREEN_DENSITY := 480
 
 # HIDL
-DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
+DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/configs/manifest.xml
 
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/ext_config/nio-default.config
