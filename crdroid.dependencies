@@ -22,6 +22,6 @@
   {
     "repository":"crdroidandroid/android_hardware_motorola",
     "target_path":"hardware/motorola",
-    "branch":"v-15.0"
+    "branch":"15.0-niopstar"
   }
 ]
